@@ -1,0 +1,16 @@
+{
+	"name": "scrapper",
+	"version": "1.0.0",
+	"description": "anime",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": ["anime"],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"puppeteer": "^2.1.1"
+	}
+}
